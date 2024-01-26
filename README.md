@@ -26,5 +26,5 @@ Open your web browser and navigate to `http://localhost:3000`. You'll see the lo
 - Click on it to mark the todo as done. The text will have a strike-through effect.
 
 # Log Out
-Click on the "Logout" link to log out of the application.
+Click on the `"Logout"` link to log out of the application.
 
