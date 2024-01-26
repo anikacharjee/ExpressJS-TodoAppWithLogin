@@ -22,7 +22,7 @@ Open your web browser and navigate to `http://localhost:3000`. You'll see the lo
 - Enter a todo in the input field and click the `"Add Todo"` button.
 
 # Mark Todo as Done
-- Each todo item has a "Mark as Done" link.
+- Each todo item has a `"Mark as Done"` link.
 - Click on it to mark the todo as done. The text will have a strike-through effect.
 
 # Log Out
